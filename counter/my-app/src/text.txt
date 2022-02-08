@@ -1,0 +1,22 @@
+
+
+Зарождение
+- componentWillMount (хуйня не нужная)
+- Render
+- componentDidMount
+
+
+Обновление
+- shouldComponentUpdate
+
+- componentWillUpdate  (хуйня не нужная)
+- Render
+- componentDidUpdate
+
+
+Удаление
+- componentDidUnmount
+
+
+Ошибка
+- componentDidCatch(error, errorInfo)
